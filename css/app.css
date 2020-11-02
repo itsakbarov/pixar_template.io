@@ -16,11 +16,11 @@ h1,h2,h3,h4,h5,h6,p,li,a{
 .container{
     width: 1200px;
     margin: 0 auto;
-}   
+}
 .site_header{
     background: #FFFFFF;
-    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1); 
-    margin-bottom: 80px;   
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+    margin-bottom: 80px;
     position: fixed;
     z-index: 1;
     width: 100%;
@@ -115,14 +115,14 @@ h1,h2,h3,h4,h5,h6,p,li,a{
     box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
 
-}   
+}
 .section_two_bottom .service_item{
     padding: 32px 58.6px 24px 58.6px;
     background: #FFFFFF;
     box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
 
-}   
+}
 .section_two{
     margin-bottom: 112px;
 }
@@ -136,7 +136,7 @@ line-height: 130%;
 text-align: center;
 color: #000000;
 text-align: center;
-}    
+}
 .section_two_mid .item_text{
     margin-bottom: 16px;
     text-align: center;
@@ -147,13 +147,13 @@ text-align: center;
     text-align: center;
     color: #000000;
 
-}   
+}
 .section_two_mid .service_item{
     flex-direction: column;
     margin-bottom: 16px;
     display: flex;
     justify-content: center;
-}   
+}
 .section_two img{
     width: 202.79px;
     height: 130px;
@@ -173,7 +173,7 @@ text-align: center;
 }
 .section_two_bottom .service_item{
     margin-right: 70px;
-    transition: all 0.3s ease; 
+    transition: all 0.3s ease;
 }
 .section_two .service_links{
     display: flex;
@@ -398,7 +398,7 @@ footer{
 /* hover effektlar */
 .first_column .footer_links:hover{
     color: #00BAFC;
- 
+
 }
 
 .second_column .footer_links:hover{
@@ -459,15 +459,15 @@ color: #FFFFFF;
     opacity: 0.4;
 }
 .service_item:active{
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2); 
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
 }
 
 main .primary_btn:active{
- 
+
 background: rgba(0, 186, 252, 0.6);
 }
 form .primary_btn:active{
- 
+
 background: rgba(0, 186, 252, 0.6);
 }
 
@@ -535,6 +535,7 @@ background: rgba(0, 186, 252, 0.6);
     font-size: 16px;
     line-height: 24px;
     text-align: center;
+    margin-bottom: 72px;
     color: #000000;
 }
 .services_bottom_wrapper{
