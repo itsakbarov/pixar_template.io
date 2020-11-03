@@ -462,15 +462,11 @@ footer {
 
 
 /* hover effektlar */
-.first_column .footer_links:hover {
+.footer_links:hover {
     color: #00BAFC;
 
 }
 
-.second_column .footer_links:hover {
-    opacity: 0.6;
-    color: #00BAFC;
-}
 
 .header_wrapper .header_right ul .header_link:hover {
     border-bottom: 3px solid #191919;
@@ -517,14 +513,9 @@ form .primary_btn:hover {
     color: #FFFFFF;
 }
 
-.first_column .footer_links:active {
+.footer_links:active {
     color: #00BAFC;
     opacity: 0.6;
-}
-
-.second_column .footer_links:active {
-    color: #00BAFC;
-    opacity: 1;
 }
 
 .header_left a:active {
@@ -581,8 +572,7 @@ form .primary_btn:active {
 
 .dropdown_menu a {
     display: block;
-    ;
-    padding: 16px 51px 16px 16px;
+    padding: 16px 20px 16px 16px;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
