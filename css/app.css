@@ -145,9 +145,23 @@ a {
     background: #FFFFFF;
     box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
-
+    text-align: center;
+    cursor: pointer;
 }
-
+.section_two_bottom .service_item .item_heading{
+        margin-bottom: 16px;
+        margin-top: 16px;
+}
+.section_two_bottom .item_text {
+    margin-bottom: 16px;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+}
 .section_two {
     margin-bottom: 112px;
 }
